@@ -1,8 +1,23 @@
-# React + Vite
+# CODEROCKR TEST
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto criado com reactJS
 
-Currently, two official plugins are available:
+#Bibliotecas:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Axios:
+Utilizado para fazer requisições HTTP às URLs necessárias.
+
+#Material UI:
+Facilita a criação do modal e oferece suporte para adicionar um indicador de carregamento durante as requisições às URLs
+
+#MomentJS: 
+Utilizado para formatação correta de datas.
+
+#Styled-components:
+Utilizado para estilizar componentes e telas em JavaScript.
+
+#React Icons:
+Utilizado para adicionar ícones às telas.
+
+#React router dom:
+Utilizado para realizar a navegação entre as páginas em React.
